@@ -1,0 +1,49 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.ms_bgcolor-blue {
+    background-color: lightblue;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+h1 {
+    margin: 30px;
+    font-size: 4.5rem;
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-size: 2rem;
+    color: lightcoral;
+}
+
+img {
+    width: 100%;
+}
+
+.pad-top {
+    padding-top: 30px;
+}
+
+.ms_btn {
+    background: blue;
+    border-radius: 7px;
+    color: #ffff;
+    font-size: 30px;
+    padding: 16px 25px 16px 25px;
+    text-decoration: none;
+}
+
+.ms_btn:hover {
+    background: #232931;
+    text-decoration: none;
+}
